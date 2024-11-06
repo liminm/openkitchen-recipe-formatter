@@ -28,5 +28,5 @@ This application enables users to input recipes in various formats (plain text, 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/recipe-formatter.git
+git clone https://github.com/liminm/openkitchen-recipe-formatter.git
 cd recipe-formatter
